@@ -1,0 +1,13 @@
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\bin\Debug\netcoreapp3.1\aulas_c#_dio.exe
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\bin\Debug\netcoreapp3.1\aulas_c#_dio.deps.json
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\bin\Debug\netcoreapp3.1\aulas_c#_dio.runtimeconfig.json
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\bin\Debug\netcoreapp3.1\aulas_c#_dio.runtimeconfig.dev.json
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\bin\Debug\netcoreapp3.1\aulas_c#_dio.dll
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\bin\Debug\netcoreapp3.1\aulas_c#_dio.pdb
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.csprojAssemblyReference.cache
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.AssemblyInfoInputs.cache
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.AssemblyInfo.cs
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.csproj.CoreCompileInputs.cache
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.dll
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.pdb
+C:\users\james\C#_aulas\.git\aulas_c#_dio\aulas_c#_dio\obj\Debug\netcoreapp3.1\aulas_c#_dio.genruntimeconfig.cache
